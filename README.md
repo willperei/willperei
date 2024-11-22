@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @willperei, and I am currently studying at 42School for language C.
+- 👋 Hi, I’m @willperei, and I am currently studying at 42School for learning to programming on language C.
 - 🌱 I’m currently learning C, C++, Python, Cloud Services and others...
 
 <!---
